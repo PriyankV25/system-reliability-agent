@@ -1,0 +1,15 @@
+{
+  "ollama": {
+    "base_url": "http://127.0.0.1:11434",
+    "model": "gemma3:4b",
+    "timeout_seconds": 120
+  },
+  "api": {
+    "host": "127.0.0.1",
+    "port": 8000
+  },
+  "reliability": {
+    "history_hours": 24,
+    "analysis_cooldown_seconds": 300
+  }
+}
