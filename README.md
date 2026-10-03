@@ -1,4 +1,4 @@
-# ChallengeOne — Local System Metrics + AI Reliability Assistant
+# ChallengeOne — Local System Metrics + AI Reliability Assistant #HacktoberFest2026
 
 This version keeps the working v3 monitoring dashboard and adds a fully local AI reliability layer.
 
